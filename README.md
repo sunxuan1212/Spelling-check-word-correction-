@@ -9,11 +9,11 @@ The aim of this study is to implement advanced NLP techniques into spell check s
 
 
 # System screenshot - system <h2>
-![image1](system.png)  
+![image1](/images/system.png)  
 
 # System screenshot - detection of real-word problem <h2>
-![image2](real-word.png)
+![image2](/images/real-word.png)
 
 # System screenshot - detection of non-word problem <h2>
-![image3](non-word.png)
+![image3](/images/non-word.png)
   
